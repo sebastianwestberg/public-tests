@@ -1,8 +1,8 @@
 {
-    "url": "https://github.com/test.yaml",
+    "url": "https://raw.githubusercontent.com/sebastianwestberg/xss-test/master/test.yaml",
     "urls": [
         {
-            "url": "https://github.com/test.yaml",
+            "url": "https://raw.githubusercontent.com/sebastianwestberg/xss-test/master/test.yaml",
             "name": "Foo"
         }
     ]
