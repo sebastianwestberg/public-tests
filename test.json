@@ -1,4 +1,5 @@
 {
+    "swagger": "2.0",
     "url": "https://raw.githubusercontent.com/sebastianwestberg/xss-test/master/test.yaml",
     "urls": [
         {
